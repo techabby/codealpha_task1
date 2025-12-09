@@ -35,5 +35,4 @@ This project is ideal for beginners learning **frontend development**, **DOM man
 ---
 
 ## 🔗 Live Preview
-**Live Preview:** [Click Here](#)  
-(Replace `#` with your actual deployed link)
+**Live Preview:** [Click Here](https://techabby.github.io/codealpha_task1/)  
